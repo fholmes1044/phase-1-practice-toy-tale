@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 15
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 17
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
       "likes": 1
     },
     {
@@ -47,6 +47,78 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 20
     }
   ]
 }
